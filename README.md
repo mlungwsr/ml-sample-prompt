@@ -23,7 +23,7 @@ A collection of hands-on machine learning demonstrations and tutorials designed 
 #### Demo 4: Customer Churn Analysis
 - **Location**: `demo4/`
 - **Notebook**: `Demo4-latest.ipynb`
-- **Dataset**: Customer churn data (`churn.txt`, `train.csv`, `validation.csv`)
+- **Dataset**: Customer churn data (`churn.txt` - raw data; `train.csv` and `validation.csv` generated during execution)
 - **Focus**: End-to-end churn prediction workflow
 - **Features**:
   - Data exploration and preprocessing
@@ -93,8 +93,8 @@ By working through these demos, you'll learn:
 ## 📊 Datasets
 
 ### Demo 4 Dataset Details
-- **Training Data**: `train.csv` (~711KB)
-- **Validation Data**: `validation.csv` (~203KB)
+- **Training Data**: `train.csv` (~711KB) - Generated during notebook execution
+- **Validation Data**: `validation.csv` (~203KB) - Generated during notebook execution
 - **Raw Data**: `churn.txt` (~969KB)
 - **Domain**: Customer churn prediction
 
