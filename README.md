@@ -31,6 +31,18 @@ A collection of hands-on machine learning demonstrations and tutorials designed 
   - Model training and validation
   - Performance evaluation
 
+#### Demo 6: SageMaker Inference Recommender
+- **Location**: `demo6/`
+- **Notebook**: `InfRecommender.ipynb`
+- **Dataset**: UCI Abalone dataset (regression)
+- **Focus**: Automated performance benchmarking and model deployment optimization
+- **Features**:
+  - Model training with Linear Learner algorithm
+  - Inference Recommender for performance testing
+  - Cost-performance optimization
+  - Real-time endpoint deployment recommendations
+  - Load testing across different instance types
+
 ## 🚀 Getting Started
 
 ### Prerequisites
